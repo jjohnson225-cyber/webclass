@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.emilys-candy-regular {
+  font-family: "Emilys Candy", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h2 {
+    margin: 60px;
+    padding: 30px;
+
+}
+
+
+h3 {
+  position: relative;
+  top: 430px;
+  margin: 1px;
+    padding: 2px;
+    text-align: center;
+    font-size: 18px;
+  
+
+}
+
+h4{
+  position: relative;
+  top: 700px;
+  margin: 1px;
+    padding: 2px;
+    text-align: center;
+    font-size: 18px;
+}
+
+
+
+.page1 {
+    background-image: url(photos/page1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+
+}
+
+.page2 {
+     background-image: url(photos/page2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+
+
+}
+
+.page3 {
+     background-image: url(photos/page3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+
+
+}
+
+.page5 {
+     background-image: url(photos/img20251201_11291067.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+
+
+}
+.page4 {
+  background-color: black;
+  width: 100%;
+    height: 100vh;
+  
+
+}
+
+h5{ 
+  color: white;
+  font-size: 100px;
+}
+
+.choosey {
+  background-color: black;
+}
+
